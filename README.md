@@ -52,11 +52,11 @@ In this stage, the model was develop using ```LTSM``` neural network which was p
 For the model training, the model, which have been explained above will be compile. In this project, the model was compile using Adam as optimizer, Mean Squared Error (MSE) for loss and Mean Absolute Percentage Error (MAPE) as metrics. Then, the model was fit with the (x_train,x_test,y_train_y_test) data split. The result of the training can be seen below:-
 
 <p align="center">
-  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/model.png" />
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/MAPE%20loss%20and%20val%20graph.png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/model.png" />
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/MSE%20loss%20and%20val%20graph.png" />
 </p>
 
 ## Model evaluation
