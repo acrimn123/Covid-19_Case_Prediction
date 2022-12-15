@@ -43,16 +43,21 @@ Before proceeding to the model development, the data analyses are done based on 
 
 In this stage, the model was develop using ```LTSM``` neural network which was provided in ```tensorflow``` module.The model architecture can be seen below:
 
-![App Screenshot]()
+<p align="center">
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/model.png" />
+</p>
 
 ## Model training
 
 For the model training, the model, which have been explained above will be compile. In this project, the model was compile using Adam as optimizer, Mean Squared Error (MSE) for loss and Mean Absolute Percentage Error (MAPE) as metrics. Then, the model was fit with the (x_train,x_test,y_train_y_test) data split. The result of the training can be seen below:-
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/model.png" />
+</p>
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<p align="center">
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/model.png" />
+</p>
 
 ## Model evaluation
 
