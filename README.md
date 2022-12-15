@@ -63,11 +63,9 @@ For the model training, the model, which have been explained above will be compi
 
 After completing the model training, the model will need to be evaluate to check if the model prediction is close to the actual dataset. The model evaluation will use the dataset test for evaluation whhich will be concantinate with the previous 30 days from training dataset. The concantinate dataset will then process using the same step of data laoding, inspection, cleaning and preprocessing before the testing dataset can be pass to the model for prediction.This predicion will be then compared with the actual cases by computing the MAPE and MSE. The graph and performance of the model can be see below:-   
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/acrimn123/Covid-19_Case_Prediction/blob/main/Model%20performance.png" />
+</p>
 
 ## Acknowledgements
 
